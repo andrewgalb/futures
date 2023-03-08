@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 ## Technology Replacing Teachers
 
 By 2035, the role of the teacher will become obsolete, creating drastic job loss and pay cuts. By providing standardized information on a subject online or via holographic professors, schools may completely replace “live” teachers in the classroom.
