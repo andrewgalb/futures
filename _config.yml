@@ -9,4 +9,3 @@ kramdown:
   syntax_highlighter: rouge
 theme: minima
 header_pages:
-  index.md
