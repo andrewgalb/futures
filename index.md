@@ -18,7 +18,7 @@ title: Futures
 
 [Censored Education](censored-education.md)
 
-[Free and universal access](free-and-universal-access.md) 
+Free and universal access 
 
 [Technology replacing teachers](technology-replacing-teachers.md)
 
@@ -30,26 +30,26 @@ title: Futures
 
 [Smart education](smart-education.md)
 
-[The shaping of future education](https://duckduckgo.com)  
+The shaping of future education  
 
-[Individualized instruction]()  
+Individualized instruction  
 
-[Individualized education]()
+Individualized education
 
 [Flipped classroom](flipped-classroom.md)
 
-[Assessment]() 
+Assessment 
 
 [Decay of Arts & Humanities](decay-of-arts-and-humanities.md)
 
-[Students´attitude and ability]()  
+Student's attitude and ability  
 
-[Competence]()
+Competence
 
-[Skills]() 
+Skills 
 
 [Blended learning](blended-learning.md)  
 
-[Resources]()
+Resources
 
-[Environment]()  
+Environment  
