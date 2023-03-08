@@ -1,4 +1,6 @@
-## Micro/Nano Credentials
+---
+title:  Micro/Nano Credentials
+---
 
 Traditional universities and schools vs. skills and credential based providers.
 
