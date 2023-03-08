@@ -39,7 +39,9 @@ title: Futures
 
 [Flipped classroom](https://duckduckgo.com)
 
-[Assessment](https://duckduckgo.com)  
+[Assessment](https://duckduckgo.com) 
+
+[Decay of Arts & Humanities](decay-of-arts-and-humanities.md)
 
 [Students´attitude and ability](https://duckduckgo.com)  
 
