@@ -5,31 +5,31 @@ title: Futures
 
 ## Begreppslista studiedag 9/3 
 
-[Metacampus](https://duckduckgo.com)
+[Metacampus](metacampus.md)
 
 [Avatars och surrogates](avatars-and-surrogates.md)
 
 [AI](https://duckduckgo.com)
 
-[Micro/nano credentials](https://duckduckgo.com) 
+[Micro/nano credentials](micro-nano-credentials.md) 
 
-[(24x7) Education on demand](https://duckduckgo.com) 
+[(24x7) Education on demand](education-on-demand.md) 
 
-[Bio/genetech](https://duckduckgo.com)
+[Bio/genetech](bio-genetech.md)
 
 [Censored Education](censored-education.md)
 
-[Free and universal access](https://duckduckgo.com) 
+[Free and universal access](free-and-universal-access.md) 
 
-[Technology replacing teachers]
+[Technology replacing teachers](technology-replacing-teachers.md)
 
-[Personal and hypercustomized](https://duckduckgo.com) 
+[Personal and hypercustomized](personal-and-hypercusommized.md) 
 
-[The Superwise?](https://duckduckgo.com)
+[The Superwise?](superwise.md)
 
-[Enhanced humans](https://duckduckgo.com) 
+[Enhanced humans](enhanced-humans.md) 
 
-[Smart education](https://duckduckgo.com)
+[Smart education](smart-education.md)
 
 [The shaping of future education](https://duckduckgo.com)  
 
