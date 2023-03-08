@@ -1,4 +1,6 @@
-## Education on Demand
+---
+title: Education on Demand
+---
 
 Students aren’t studying in the afternoons after class or on weekends; data shows that the typical student’s primary learning time is 9pm. Although of the primary ways students access material is on their phones or mobile devices, many teachers still prohibit students from using these devices in the classroom.
 
