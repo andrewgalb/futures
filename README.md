@@ -1,3 +1,8 @@
+---
+layout: post
+title: Futures
+---
+
 ## Begreppslista studiedag 9/3 
 
 [Metacampus](https://duckduckgo.com)
