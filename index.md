@@ -8,6 +8,8 @@ title: Futures
 
 [AI Marking](ai-marking.md)
 
+[Blockchain](blockchain.md)
+
 [Micro/nano credentials](micro-nano-credentials.md) 
 
 [(24x7) Education on demand](education-on-demand.md) 
@@ -20,7 +22,7 @@ title: Futures
 
 [Technology replacing teachers](technology-replacing-teachers.md)
 
-[Personal and hypercustomized](personal-and-hypercustmized.md) 
+[Personal and hypercustomized](personal-and-hypercustomized.md) 
 
 [The Superwise?](superwise.md)
 
