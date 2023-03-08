@@ -37,20 +37,20 @@ title: Futures
 
 [Individualized education](https://duckduckgo.com)
 
-[Flipped classroom](https://duckduckgo.com)
+[Flipped classroom](flipped-classroom.md)
 
-[Assessment](https://duckduckgo.com) 
+[Assessment]() 
 
 [Decay of Arts & Humanities](decay-of-arts-and-humanities.md)
 
-[Students´attitude and ability](https://duckduckgo.com)  
+[Students´attitude and ability]()  
 
 [Competence](https://duckduckgo.com)
 
-[Skills](https://duckduckgo.com) 
+[Skills]() 
 
-[Blended learning](https://duckduckgo.com)  
+[Blended learning](blended-learning.md)  
 
-[Resources](https://duckduckgo.com)
+[Resources]()
 
-[Environment](https://duckduckgo.com)  
+[Environment]()  
