@@ -7,7 +7,7 @@ title: Futures
 
 [Metacampus](https://duckduckgo.com)
 
-[Avatars och surrogates](https://duckduckgo.com)
+[Avatars och surrogates](avatars-and-surrogates.md)
 
 [AI](https://duckduckgo.com)
 
