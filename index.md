@@ -9,13 +9,13 @@ title: Futures
 
 [Avatars och surrogates](avatars-and-surrogates.md)
 
-[AI](https://duckduckgo.com)
+[AI Marking](ai-marking.md)
 
 [Micro/nano credentials](micro-nano-credentials.md) 
 
 [(24x7) Education on demand](education-on-demand.md) 
 
-[Bio/genetech](bio-genetech.md)
+[Adaptive Learning Platforms](adaptive-learning-platforms.md)
 
 [Censored Education](censored-education.md)
 
@@ -23,7 +23,7 @@ title: Futures
 
 [Technology replacing teachers](technology-replacing-teachers.md)
 
-[Personal and hypercustomized](personal-and-hypercusommized.md) 
+[Personal and hypercustomized](personal-and-hypercustmized.md) 
 
 [The Superwise?](superwise.md)
 
@@ -33,9 +33,9 @@ title: Futures
 
 [The shaping of future education](https://duckduckgo.com)  
 
-[Individualized instruction](https://duckduckgo.com)  
+[Individualized instruction]()  
 
-[Individualized education](https://duckduckgo.com)
+[Individualized education]()
 
 [Flipped classroom](flipped-classroom.md)
 
@@ -45,7 +45,7 @@ title: Futures
 
 [Students´attitude and ability]()  
 
-[Competence](https://duckduckgo.com)
+[Competence]()
 
 [Skills]() 
 
