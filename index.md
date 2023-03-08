@@ -17,7 +17,7 @@ title: Futures
 
 [Bio/genetech](https://duckduckgo.com)
 
-[Censored Education](/censored-education.md)
+[Censored Education]({% censored-education.md %})
 
 [Free and universal access](https://duckduckgo.com) 
 
