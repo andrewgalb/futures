@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Metacampus
 
 •Will Virtual/Meta campuses replace/coexist with physical campuses? We've already witnessed a big transition towards online, virtual, hybrid.
