@@ -21,6 +21,8 @@ title: Futures
 
 [Free and universal access](https://duckduckgo.com) 
 
+[Technology replacing teachers]
+
 [Personal and hypercustomized](https://duckduckgo.com) 
 
 [The Superwise?](https://duckduckgo.com)
