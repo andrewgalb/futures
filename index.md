@@ -1,5 +1,5 @@
 ---
-title: Futures
+title: ""
 ---
 
 [Metacampus](metacampus.md)
@@ -22,7 +22,7 @@ Free and universal access
 
 [Technology replacing teachers](technology-replacing-teachers.md)
 
-[Personal and hypercustomized](personal-and-hypercustomized.md) 
+[VR](vr.md) 
 
 [The Superwise?](superwise.md)
 
