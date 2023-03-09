@@ -2,54 +2,82 @@
 title: ""
 ---
 
-[Metacampus](metacampus.md)
-
-[Avatars och surrogates](avatars-and-surrogates.md)
+[Adaptive Learning Platforms](adaptive-learning-platforms.md)
 
 [AI Marking](ai-marking.md)
 
+Assessment 
+
+[Avatars och surrogates](avatars-and-surrogates.md)
+
+[Blended learning](blended-learning.md)
+
 [Blockchain](blockchain.md)
-
-[Micro/nano credentials](micro-nano-credentials.md) 
-
-[(24x7) Education on demand](education-on-demand.md) 
-
-[Adaptive Learning Platforms](adaptive-learning-platforms.md)
 
 [Censored Education](censored-education.md)
 
-Free and universal access 
-
-[Technology replacing teachers](technology-replacing-teachers.md)
-
-[VR](vr.md) 
-
-[The Superwise?](superwise.md)
-
-[Enhanced humans](enhanced-humans.md) 
-
-[Smart education](smart-education.md)
-
-The shaping of future education  
-
-Individualized instruction  
-
-Individualized education
-
-[Flipped classroom](flipped-classroom.md)
-
-Assessment 
+Competence
 
 [Decay of Arts & Humanities](decay-of-arts-and-humanities.md)
 
-Student's attitude and ability  
+[(24x7) Education on demand](education-on-demand.md) 
 
-Competence
+[Enhanced humans](enhanced-humans.md) 
 
-Skills 
+Environment  
 
-[Blended learning](blended-learning.md)  
+[Flipped classroom](flipped-classroom.md)
+
+Free and universal access 
+
+Individualized education
+
+Individualized instruction  
+
+[Metacampus](metacampus.md)
+
+[Micro/nano credentials](micro-nano-credentials.md) 
 
 Resources
 
-Environment  
+Skills
+
+[Smart education](smart-education.md)
+
+Student's attitude and ability 
+
+[Technology replacing teachers](technology-replacing-teachers.md)
+
+The shaping of future education  
+
+[The Superwise?](superwise.md)
+
+[VR](vr.md) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+  
+
+
+
+
