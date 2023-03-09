@@ -46,6 +46,8 @@ Skills
 
 Student's attitude and ability 
 
+[Surveillance](surveillance.md)
+
 [Technology replacing teachers](technology-replacing-teachers.md)
 
 The shaping of future education  
